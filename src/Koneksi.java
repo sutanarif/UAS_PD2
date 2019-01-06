@@ -21,7 +21,7 @@ public class Koneksi {
         } catch (Exception e) {
             System.out.println("Error Driver Tidak ditemukan " + e);
         }
-        String urlDatabase = "jdbc:mysql://localhost/nama_database";
+        String urlDatabase = "jdbc:mysql://localhost/nama_databasenya";
         String user = "root";
         String password = "";
         
